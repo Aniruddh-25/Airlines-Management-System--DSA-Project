@@ -1,4 +1,4 @@
-/*This Code is Coded By Ashish Poudel*/
+
 
 #include<iostream>
 #include<cstring>
